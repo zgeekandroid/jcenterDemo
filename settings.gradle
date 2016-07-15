@@ -1,0 +1,5 @@
+include ':app', ':jcenterlib'
+
+
+//def submoduleProject = project(':jcenterlib')
+//submoduleProject.name = 'jcenter'
